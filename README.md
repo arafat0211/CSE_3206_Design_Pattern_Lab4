@@ -8,9 +8,9 @@ source code, UML diagrams, documentation PDF and code review report.
 
 | Pattern | Category | Folder | Status |
 |---|---|---|---|
-| Adapter | Structural | `Adapter_Pattern/` | done |
+| Adapter | Structural | [`Adapter_Pattern/`](Adapter_Pattern/) | done |
 | **Bridge** | Structural | [`Bridge_Pattern/`](Bridge_Pattern/) | done |
-| Composite | Structural | `Composite_Pattern/` | done |
+| Composite | Structural | [`Composite_Pattern/`](Composite_Pattern) | done |
 
 ## Folder rule for contributors
 
